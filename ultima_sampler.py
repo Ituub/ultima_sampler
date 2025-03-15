@@ -1,4 +1,3 @@
-from qiskit.quantum_info import Statevector
 import random
 import numpy as np
 import h5py
